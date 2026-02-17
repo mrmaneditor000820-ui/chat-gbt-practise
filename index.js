@@ -23,3 +23,13 @@
 // }
 
 // console.log(obj.class)
+
+// if else pratise
+
+var number = prompt("enter number")
+
+if (number % 2 === 0) {
+    console.log("even number")
+} else {
+    console.log("odd number")
+}
