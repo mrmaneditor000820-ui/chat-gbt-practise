@@ -14,3 +14,12 @@
 // var array = ["math","urdu","english","sindhi"];
 // console.log(array[3])
 
+// Object practise 
+
+// var obj = {
+//     "name":"abdurehman",
+//     "age": "18",
+//     "class":"12"
+// }
+
+// console.log(obj.class)
