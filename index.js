@@ -34,9 +34,22 @@
 //     console.log("odd number")
 //
 
-var name = "abdurehman";
-let age = 20 ;
-const studentclass = "2nd";
+// var name = "abdurehman";
+// let age = 20 ;
+// const studentclass = "2nd";
 
-console.log(`my name is ${name}, and my ${age}, and i am ${studentclass} `)
+// console.log(`my name is ${name}, and my ${age}, and i am ${studentclass} `)
+
+// var number1 = prompt("enter first num");
+// var number2 = prompt("enter scond number");
+
+// console.log(number1 - number2)
+
+// var mens = prompt("enter your age")
+
+// if(mens > 18 ){
+//     alert("you are adult")
+// }else{
+//     alert("you are kid")
+// }
 
