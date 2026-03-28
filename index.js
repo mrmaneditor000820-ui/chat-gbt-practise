@@ -34,5 +34,9 @@
 //     console.log("odd number")
 //
 
+var name = "abdurehman";
+let age = 20 ;
+const studentclass = "2nd";
 
+console.log(`my name is ${name}, and my ${age}, and i am ${studentclass} `)
 
