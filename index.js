@@ -53,8 +53,10 @@
 //     alert("you are kid")
 // }
 
-var arrey = [1,2,3,4,5,6,7,8,9,10];
+// var arrey = [1,2,3,4,5,6,7,8,9,10];
 
-
+// for (var i = 0; i < arrey.length; i++) {
+//     console.log(arrey[i])
+// }
 
 
